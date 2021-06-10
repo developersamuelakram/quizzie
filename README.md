@@ -9,7 +9,7 @@
 
 ## Visuals
 
-![](images/image.png width="250x250")
+![](images/image.png)
 
 ## Follow me 
 [Samuelcodes](https://www.instagram.com/samuelcodes)
